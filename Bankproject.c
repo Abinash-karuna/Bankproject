@@ -115,7 +115,7 @@ int withdrawal(){
     
     printf("\nEnter the Money to Widthrawl: ");
     scanf("%d",&moneyToWidthdraw);
-    if(moneyToWidthdraw>0 && moneyToWidthdraw>accountbalance){
+    if(moneyToWidthdraw>0 && moneyToWidthdraw<accountbalance){
         accountbalance=accountbalance-moneyToWidthdraw;
         printf("\nMoney you got: %d\n",moneyToWidthdraw);
         printf("Remaining balance: %d",accountbalance);
