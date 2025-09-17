@@ -1,3 +1,3 @@
 public static void main(string args){
-    system.out.print
+    system.out.print("hello world");
 }
