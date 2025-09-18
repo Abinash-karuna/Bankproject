@@ -4,4 +4,5 @@ public static void main(string args){
     sout("enter the details");
     hello this is tafaf
 
-        hi abinash}
+        hi abinash
+        ho da }
