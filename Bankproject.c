@@ -141,12 +141,7 @@ to check the commit
 // lated pushed by abinash
 // hi I changed locally
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-//hI ABIANSH
-=======
-//hI AKASH
->>>>>>> Stashed changes
-=======
-//hI AKASH
->>>>>>> Stashed changes
+
+
+//BMW
+
