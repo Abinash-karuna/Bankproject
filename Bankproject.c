@@ -142,7 +142,11 @@ to check the commit
 // hi I changed locally
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 //hI ABIANSH
+=======
+//hI AKASH
+>>>>>>> Stashed changes
 =======
 //hI AKASH
 >>>>>>> Stashed changes
